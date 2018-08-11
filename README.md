@@ -13,7 +13,7 @@
 <font size="10" color="white" face="verdana">
 
 <h1>Hentai Is Just Better</h1>
-<h1>1000co</h1>
+<h1>1000cow</h1>
 </font>
 
 
@@ -45,7 +45,7 @@
 <br>
 <center>
 <button><a href="https://www.paypal.me/BestHentai" style="text-decoration: none;">Donate</a></button>
-</cneter>
+</center>
 <style>
  
 body {
