@@ -13,7 +13,7 @@
 <font size="10" color="white" face="verdana">
 
 <h1>Hentai Is Just Better</h1>
-<h1>1000cow</h1>
+
 </font>
 
 
